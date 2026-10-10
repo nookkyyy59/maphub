@@ -1,5 +1,5 @@
 -- registry.lua  ·  PlaceId → โฟลเดอร์แมพ
 return {
-    [107778070777162] = { folder = "steal_an_egg" },
+    [118805555015549] = { folder = "+1_Loot_To_Forge" },
     -- เพิ่มบรรทัดใหม่ต่อแมพ
 }
