@@ -1,17 +1,17 @@
 return {
-    name = "Steal an Egg",
+    name = "+1 Loot To Forge",
     team = "KUGA x BAR",
     scripts = {
         {
-            name  = "Auto Collect",
-            desc  = "เก็บไข่อัตโนมัติ",
-            file  = "auto_collect.lua",
+            name  = "Mario HUB",
+            desc  = "ทำไก่ตัน เสกของ",
+            file  = "marioHUB.lua",
             emoji = "🥚",
         },
         {
-            name  = "BF Loader",
-            desc  = "โหลดสคริปต์จาก BigFroot",
-            file  = "bf_loader.lua",
+            name  = "NAPHUB",
+            desc  = "ออโต้ต่างๆ",
+            file  = "NAPHUB.lua",
             emoji = "🔱",
         },
     },
