@@ -42,6 +42,6 @@ local buildUI = fetch("ui.lua")
 
 buildUI(manifest, function(scriptEntry)
     return runner(scriptEntry, BASE)
-end)
+end, BASE)
 
 print("[kuga] " .. (manifest.team or "?") .. " · " .. manifest.name)
