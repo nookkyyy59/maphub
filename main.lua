@@ -1,6 +1,6 @@
 -- main.lua  ·  KUGA x BAR hub  ·  entry point
 -- URL โฮสต์ของ hub (ต้องมี / ปิดท้าย)
-local BASE = "https://your.host/maphub/"
+local BASE = "https://raw.githubusercontent.com/nookkyyy59/maphub/refs/heads/main/main.lua"
 
 local LS = loadstring or load
 
